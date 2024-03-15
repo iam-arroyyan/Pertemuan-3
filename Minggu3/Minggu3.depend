@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710466569 source:e:\minggu3\linklist.cpp
+	"linkList.h"
+	<iostream>
+
+1710466566 e:\minggu3\linklist.h
+
